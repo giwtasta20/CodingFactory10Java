@@ -4,13 +4,6 @@ public class SelectionSort {
 
     public static void main(String[] args) {
 
-        int arr[] = new int[]{5, 2, 8, 1, 9};
-        arr = selectionSort(arr);
-
-        for (int el:arr) {
-            System.out.print(el + " ");
-        }
-
     }
 
     public static int[] selectionSort(int[] arr) {
