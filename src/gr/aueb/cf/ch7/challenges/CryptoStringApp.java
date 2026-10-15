@@ -20,6 +20,10 @@ public class CryptoStringApp {
 
     }
 
+    /**
+     * @param str Το αρχικό αλφαριθμητικό προς κρυπτογράφηση
+     * @return Το κρυπτογραφημένο αλφαριθμητικό
+     */
     public static String encryptString(String str) {
         StringBuilder encrypted = new StringBuilder();
 
@@ -37,6 +41,10 @@ public class CryptoStringApp {
         return encrypted.toString();
     }
 
+    /**
+     * @param str Το κρυπτογραφημένο αλφαριθμητικό
+     * @return Το αποκρυπτογραφημένο αλφαριθμητικό
+     */
     public static String decryptString(String str) {
         StringBuilder decrypted = new StringBuilder();
 
