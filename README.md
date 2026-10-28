@@ -24,3 +24,4 @@ Educational material, code examples and coding challenges from the Coding Factor
 * **ch18**: Layered Architecture & SOA (BankApp with Collection DAO)
 * **ch19**: Databases, MySQL, Docker, DBeaver & JDBC (BankApp with MySQL)
 * **ch20**: Regular Expressions (Regex)
+
