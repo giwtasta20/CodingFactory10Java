@@ -2,6 +2,8 @@
 
 Educational material, code examples and coding challenges from the Coding Factory program at AUEB.
 
+*Java 21*
+
 ## Chapters
 
 - **ch1**: Introduction to Java Programming
@@ -11,7 +13,6 @@ Educational material, code examples and coding challenges from the Coding Factor
 - **ch5**: Methods & Overloading
 - **ch6**: Arrays & Operations
 - **ch7**: Strings & String Handling
-- **ch8**: Exceptions & Exception Handling
 - **ch8**: Exceptions & Exception Handling
 - **ch9**: Basic I/O & File Management
 - **ch11**: Introduction to OOP, Data Classes & JavaBeans
